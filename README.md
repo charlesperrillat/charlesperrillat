@@ -4,14 +4,14 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=charlesperrillat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesperrillat&style=plastic" alt="Profile Views">
-</div>
+</div> -->
 
 Skills:
 
 <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,python" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git" alt="My Skills">
     </a>
 
 <!--
